@@ -4,6 +4,7 @@
     --font-family: 'Montserrat', sans-serif;
     --bg-color: #0E185F;
     --primary-color: #E8FFC2;
+    --game-over-color: #691010;
 }
 
 body {
@@ -23,6 +24,10 @@ h1 {
     font-size: 5em;
 }
 
+h2 {
+    font-size: 4em;
+}
+
 h3 {
     font-size: 2em;
     margin-top: 20px;
@@ -39,4 +44,19 @@ h3 {
     font-size: 4em;
     padding: 10px;
     margin: 20px;
+}
+
+.btn-jogar {
+    padding: 8px 15px;
+    border: 1px solid var(--primary-color);
+    color: var(--primary-color);
+    background:none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: 0.2s;
+}
+
+.btn-jogar:hover {
+    background:var(--primary-color);
+    color: var(--bg-color)
 }
