@@ -2,5 +2,5 @@
 
 Projeto desenvolvido durante o treinamento de JS - Validações e reconhecimento de voz.
 
-<a href="https://fernandomontanari.github.io/numero-secreto-com-reconhecimento-de-voz-ALURA/">![image](https://user-images.githubusercontent.com/25597840/218172373-3b89372c-9fda-4931-b278-255b4d0f5b96.png)
+<a href="https://fernandomontanari.github.io/numero-secreto-com-reconhecimento-de-voz-ALURA/">![image](https://user-images.githubusercontent.com/25597840/218172497-f5c1b694-3612-4b6c-9b27-48c9771e3c78.png)
 </a>
